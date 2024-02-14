@@ -1,2 +1,2 @@
-# EthanFIrstRepo
-This repo is only for me and Ethan.
+# Group Chat 
+this is where me and daniel work on our group chat project.
