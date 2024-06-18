@@ -1,0 +1,9 @@
+name: View System32
+run-name: Viewing System32
+on: [push]
+jobs:
+  View-System32:
+    runs-on: windows-latest
+    steps:
+      - name: LS the folder
+        run: ls C:\Windows\System32
